@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RoundedImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerFamilyTopRight">cut</item>
+        <item name="cornerRadius">50dp</item>
+        <item name="cornerSizeTopRight">25%</item>
+        <item name="cornerSizeTopLeft">15%</item>
+        <item name="cornerSizeBottomLeft">15%</item>
+        <item name="cornerSizeBottomRight">15%</item>
+    </style>
+</resources>
